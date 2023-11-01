@@ -1,0 +1,12 @@
+# Files or folder to be ignored by GIT 
+
+# Build directories
+build/
+build-*/
+docs/genrst/
+
+# Test failure outputs
+tests/results/*
+
+# Python cache files
+__pycache__/
